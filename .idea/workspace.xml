@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99197c55-b942-4fda-bf5a-d2f1edcfefaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jXmT2Eynzk9nmyXIfN8jCVXqc2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="php" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99197c55-b942-4fda-bf5a-d2f1edcfefaa" name="Default Changelist" comment="" />
+      <created>1603958815301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603958815301</updated>
+      <workItem from="1603958816374" duration="3701000" />
+      <workItem from="1604069212993" duration="1885000" />
+      <workItem from="1604165567475" duration="45000" />
+      <workItem from="1604165614854" duration="18244000" />
+      <workItem from="1604250592197" duration="364000" />
+      <workItem from="1604251487466" duration="149000" />
+      <workItem from="1604251675632" duration="400000" />
+      <workItem from="1604406468165" duration="133000" />
+      <workItem from="1604473840104" duration="737000" />
+      <workItem from="1604484326270" duration="213000" />
+      <workItem from="1604484553790" duration="395000" />
+      <workItem from="1604488236484" duration="3293000" />
+      <workItem from="1604742906316" duration="5974000" />
+      <workItem from="1604783229389" duration="4511000" />
+      <workItem from="1604908086599" duration="3402000" />
+      <workItem from="1604925990127" duration="4967000" />
+      <workItem from="1604984174962" duration="3425000" />
+      <workItem from="1605067575311" duration="1190000" />
+      <workItem from="1605104477971" duration="1102000" />
+      <workItem from="1605165826204" duration="592000" />
+      <workItem from="1605348428539" duration="852000" />
+      <workItem from="1605428774427" duration="2942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="193" key="#CLI_Interpreters" timestamp="1604252079256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="193" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1604252079256" />
+    <state x="667" y="181" key="#PHP" timestamp="1604252085995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="181" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1604252085995" />
+    <state x="414" y="174" width="1092" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604252090245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604252090245" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604992060614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604992060614" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604251543818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604251543818" />
+  </component>
+</project>
